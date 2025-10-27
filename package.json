@@ -4,10 +4,12 @@
   "description": "GitHub Actions 실습용 Node.js 프로젝트",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "jest"
   },
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
 }
