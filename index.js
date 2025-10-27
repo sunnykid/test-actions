@@ -1,4 +1,4 @@
 // index.js
-const sum = require('./sum');
-
+const sum =
+  
 console.log("1 + 2 =", sum(1, 2));
