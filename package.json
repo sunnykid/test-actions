@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "GitHub Actions 실습용 Node.js 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
